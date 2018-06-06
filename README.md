@@ -1,5 +1,5 @@
 # 2018-IJCAI-top3
-This is 2018 IJCAI alimama Top3 Code
+This is 2018 IJCAI alimama Top3 Code.We open source parts of the code and explain all the feature engineering.
 
 ## Introduction
 <br>CTR estimation problem is a classic and valuable problem in the field of advertising algorithms.At present, the industry has a more mature solution to the problem of CTR estimation in steady flow.
